@@ -1,0 +1,40 @@
+*{
+    /* border: 1px dotted white; */
+}
+.saldos{
+    /* width: 100%; */
+    padding: 1em;
+    padding-bottom: 0;
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.saldos p{
+    font-size: .8em;
+    color: rgb(116, 116, 116);
+}
+.saldos h2{
+    font-size: 3em;
+}
+.saldos h3{
+    font-size: 2em;
+}
+
+@media screen and (max-width:600px) {
+    .saldos{
+        flex-direction: column;
+        justify-content: initial;
+        align-items: flex-start;
+    }
+    .saldos h2{
+        font-size: 2em;
+        margin-bottom: 23px;
+    }
+    .saldos h3{
+        font-size: 1em;
+    
+    }
+    
+}

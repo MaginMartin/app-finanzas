@@ -1,0 +1,17 @@
+
+.menuBS{
+    padding: 1em;
+}
+.menuBS ul{
+    padding: 0 !important;
+}
+.menuBS li{
+    margin-right:2em ;
+list-style: none;
+display: inline-block;
+}
+
+.menuBS li a{
+    color: white;
+    text-decoration: none;
+}

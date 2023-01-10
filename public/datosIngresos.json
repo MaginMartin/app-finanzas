@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1655579996783,
+        "monto": 200000,
+        "titulo": "Trabajo",
+        "descripcion": "bla bla bla",
+        "tipo": "fijo",
+        "fechaInicio": "2022-06-01"
+    },
+    {
+        "id": 1655583322754,
+        "monto": 5000,
+        "titulo": "Diseño banner",
+        "descripcion": "bla bla bla",
+        "tipo": "variable",
+        "fechaInicio": "2022-06-09",
+        "fechaFinal": 1656558000000
+    },
+    {
+        "id": 1655583368985,
+        "monto": 2000,
+        "titulo": "Diseño logo",
+        "descripcion": "bla bla bla",
+        "tipo": "variable",
+        "fechaInicio": "2022-06-12",
+        "fechaFinal": 1656558000000
+    },
+    {
+        "id": 1655583412299,
+        "monto": 100000,
+        "titulo": "trabajo",
+        "descripcion": "bla bla bla",
+        "tipo": "fijo",
+        "fechaInicio": "2022-05-01"
+    },
+    {
+        "id": 1655583458421,
+        "monto": 30.4,
+        "titulo": "Diseño web",
+        "descripcion": "bla bla bla",
+        "tipo": "variable",
+        "fechaInicio": "2022-05-11",
+        "fechaFinal": 1656558000000
+    },
+    {
+        "id": 1655583458427,
+        "monto": 2000,
+        "titulo": "Diseño web",
+        "descripcion": "bla bla bla",
+        "tipo": "variable",
+        "fechaInicio": "2022-05-11",
+        "fechaFinal": 1656558000000
+    }
+]

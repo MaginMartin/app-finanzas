@@ -1,0 +1,27 @@
+.estimaciones{
+    margin-top: 5rem;
+}
+
+.bars{
+    margin-bottom: 5rem;
+}
+
+.pies{
+    margin-bottom: 2rem;
+}
+
+.estimations{
+    margin-bottom: 5rem;
+}
+
+.titulo{
+    font-size: 1.3rem;
+    padding: 1rem;
+}
+
+.picker{
+    background-color: azure;
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+    padding: 0;
+}

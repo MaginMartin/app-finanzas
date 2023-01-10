@@ -1,0 +1,19 @@
+body{
+    color: azure;
+}
+
+.tarjetas{
+    margin-top: 4em;
+}
+
+.form{
+    margin-right: 4em;
+}
+
+.textField{
+    margin-bottom: 1em;
+}
+
+.tarjetaRegistrada{
+    margin-left: 2em;
+}
